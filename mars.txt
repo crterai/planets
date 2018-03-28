@@ -2,5 +2,7 @@ What is our planet?
 This is mars.
 It is a cold desolate place.
 What will we do?
-Who am I?
+Who am I? - I am Scott. 
 I am a planet hunter in search of more planets.
+
+Add more text?
